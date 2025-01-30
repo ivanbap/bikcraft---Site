@@ -34,7 +34,7 @@ p {
 .menu {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px; /* espaço entre itens */
+    gap: 30px; /* espaço entre itens */
     justify-content: center;
 }
 
@@ -76,9 +76,10 @@ p {
 .botao {
     background: #e21;
     color: #fff;
-    padding: 15px 30px;
-    border-radius: 4px;
+    padding: 20px 30px;
+    border-radius: 5px;
     text-transform: uppercase;
+    justify-content: center;
 }
 
 .subtitulo {
@@ -88,4 +89,31 @@ p {
     text-align: right;
     padding: 40px;
     align-self: center;
-  }
+}
+
+.vantagens {
+    background: #fff;
+    padding: 40px;
+}
+
+.vantagens-item {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 10px 20px;
+    padding: 20px;
+}
+
+.vantagens-item p {
+    grid-column: 2;/*Para colocar o 'p' na segunda coluna, fazendo assim 'grid-template-columns: auto 1fr' da coluna acima se reedimensionar*/
+}
+
+.rodape {
+    background: #fff;
+    width: 100%;
+    text-align: center;
+    padding: 40px;
+    box-sizing: border-box;/* para não deixar uma rolagem horizontal */
+}
+  
+
+
