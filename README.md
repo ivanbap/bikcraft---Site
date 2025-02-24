@@ -14,5 +14,5 @@ Este é um site simples sobre bicicletas, criado para testar minhas habilidades 
 - Implementar um design mais avançado.
 
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/ab9a4e72-af2e-4b5d-8e3c-d5023956246a)" alt="Descrição da Imagem">
+  <img src="https://github.com/user-attachments/assets/ab9a4e72-af2e-4b5d-8e3c-d5023956246a" alt="Descrição da Imagem">
 </p>
