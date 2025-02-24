@@ -17,7 +17,8 @@ Este é um site simples sobre bicicletas, criado para testar minhas habilidades 
 📁 projeto-bicicletas
 │── 📄 index.html
 │── 📄 style.css
-│── 📂 imagens
+│── 📄 README.md
+│── 📂 img
 │── 📂 scripts (caso tenha JavaScript futuramente)
 ```
 
